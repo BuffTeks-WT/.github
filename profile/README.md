@@ -7,7 +7,7 @@
 ---
 
 ### 👋 Who We Are
-BuffTeks is a student-led technology organization dedicated to **building skills, crafting code, and bridging communities**. We connect students interested in **software development, data, networking, and design** through collaborative learning and real-world projects.
+[BuffTeks](https://buffteks.org) is a student-led technology organization dedicated to **building skills, crafting code, and bridging communities**. We connect students interested in **software development, data, networking, and design** through collaborative learning and real-world projects.
 
 ---
 
@@ -16,18 +16,22 @@ Empower members with advanced software development knowledge, foster new skills 
 
 ---
 
-### 🧠 What We Do
+### Our Activities
 - **BuffTeks Projects** – Faculty-guided development teams solving real IT problems.  
-- **BuffTeks Events** – Hackathons, coding challenges, and networking opportunities.  
-- **BuffTeks Classroom** – Open workshops covering all business technology topics.  
+- **BuffTeks Events** – Hackathons, coding challenges, competitions and networking opportunities.  
+- **BuffTeks Classroom** – An open learning platform devoted to sharing knowledge of information technology including Python programming and web application development..  
 - **BuffTeks Mentorship** – Peer-to-peer learning and professional development support.  
 
 ---
 
-### 🧑‍💻 Leadership
-**President:** [Jesus Torres](https://github.com/torresjdev) – jtorres8@buffs.wtamu.edu  
-**Tech Lead:** [Benjamin Mosley](https://github.com/benny-ui-ux) – benjaymos@proton.me  
-**Faculty Advisor:** [Dr. Carl Zhang](https://github.com/czhangwt) – czhang@wtamu.edu  
+### 🧑‍💻 BuffTeks Leadership
+**Faculty Advisors:** 
+ - [Dr. Carl Zhang](https://github.com/czhangwt)
+ - [Mr. Kareem Dana](https://github.com/kareemy)
+   
+**Student Leadership:** 
+ - **President:** [Jesus Torres](https://github.com/torresjdev)   
+ - **Tech Lead:** [Benjamin Mosley](https://github.com/benny-ui-ux) 
 
 ---
 
