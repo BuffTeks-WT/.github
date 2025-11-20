@@ -35,10 +35,10 @@ Empower members with advanced software development knowledge, foster new skills 
 
 ---
 
-### 🌐 Connect With Us
-🔗 [buffteks.org](https://buffteks.org)  
-💬 Join our Discord❔
+### 🌐 Connect With Us @ [buffteks.org](https://buffteks.org) 
+💬 Want to Join US⁉️  
   - Click on our official website,
+    - 🔗 [buffteks.org](https://buffteks.org)  
     - Navigate to the "Join Us" section on the sidebar panel
       - Complete the Join Us form.
   - From there we will send you an invite link to our Discord server!
